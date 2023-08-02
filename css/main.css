@@ -1,0 +1,16 @@
+*{
+    background-color: whitesmoke;
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+    
+}
+.tarjeta{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 2rem;
+   
+}
+.indice{
+    padding: 3rem;
+}
